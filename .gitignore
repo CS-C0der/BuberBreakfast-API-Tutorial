@@ -1,7 +1,3 @@
-BuberBreakfast/appsettings.Development.json
-BuberBreakfast/appsettings.json
-BuberBreakfast/BuberBreakfast.csproj
-BuberBreakfast/BuberBreakfast.sln
 BuberBreakfast/bin/Debug/net8.0/appsettings.Development.json
 BuberBreakfast/bin/Debug/net8.0/appsettings.json
 BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
@@ -45,7 +41,6 @@ BuberBreakfast/obj/Debug/net8.0/refint/BuberBreakfast.dll
 BuberBreakfast/obj/Debug/net8.0/staticwebassets/msbuild.build.BuberBreakfast.props
 BuberBreakfast/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BuberBreakfast.props
 BuberBreakfast/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BuberBreakfast.props
-BuberBreakfast/Properties/launchSettings.json
 BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj
 BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.deps.json
 BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll

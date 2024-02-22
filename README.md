@@ -7,6 +7,7 @@ The idea is to provide an online platform for posting and retrieving breakfast o
 This C# project showcases an industry level REST-WebAPI with all 4 CRUD operations, Https redirection and Error handling. 
 It is built in MVC architecture using the ASP.NET Core Framework and Mantinband's ErrorOr class for simplification of Error handling.
 The development was done in Visual Studio Code which enables direct testing of the API via http requests (see video). 
+Clean Code principles are applied in various ways.
 
 ## Presentation
 
